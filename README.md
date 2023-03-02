@@ -65,6 +65,7 @@ class Person {
 Void - пустота.
 После return нет смысла ничего писать.
 
+```
 public class Main {
     public static void main(String[] args) {
         Person person1 = new Person();
@@ -97,7 +98,7 @@ class Person {
 }
 //первому челу до пенсии 15 лет
 //первому челу до пенсии 45 лет
-
+```
 
 ## 2. Арифметические операции в Java
 ### Java для начинающих. Арифметические операции
